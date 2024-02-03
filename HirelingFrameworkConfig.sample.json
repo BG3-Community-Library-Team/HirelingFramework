@@ -1,0 +1,16 @@
+{
+  "FileVersion": 1,
+  "modGuids": ["4806bd2a-929b-406e-b1d4-2e0e9cc23bb2"],
+  "Hirelings": [
+    {
+      "RaceTemplateIdF": "Aasimar_Female_Player_Protector_a3dcd910-70f3-45d5-834e-7a9fb45762e5",
+      "RaceTemplateIdM": "Aasimar_Male_Player_Protector_dd21fb84-2d6a-4d7d-a418-ca96991d3920",
+      "HackRaceFlagId": "Hirelings_HACK_CreateAasimarProtector_bcd65315-e701-479b-8972-a1c213e371d4"
+    },
+    {
+      "OriginClassGlobalTemplateId": "S_GLO_Hirelings_Artificer_efdafb08-06fe-4cae-bef8-5967a1f2494f",
+      "HackClassRecruitedFlagId": "Hirelings_HACK_RecruitedBard_a8fdaad1-d0cd-430a-a671-ac86d295ce4a",
+      "HackClassFlagId": "Hirelings_HACK_CreateArtificer_4b0e9881-28af-4702-a6b6-8547a182617f"
+    }
+  ]
+}
