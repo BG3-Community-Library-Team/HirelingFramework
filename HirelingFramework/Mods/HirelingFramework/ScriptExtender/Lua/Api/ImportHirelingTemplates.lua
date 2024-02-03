@@ -1,5 +1,5 @@
 --- API Function to Import Payload data into Globals.HirelingDataToRegister into Hireling Framework.
---- Recommended to utilize `InspirationFrameworkConfig.json` in your `ScriptExtender` folder,
+--- Recommended to utilize `HirelingFrameworkConfig.json` in your `ScriptExtender` folder,
 --- rather than directly calling this API function.
 --[[
   ```lua
